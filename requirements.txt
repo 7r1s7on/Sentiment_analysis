@@ -1,0 +1,9 @@
+python==3.12.7
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.5.2
+nltk==3.9.1
+requests==2.31.0
+#matplotlib==3.9.3      required only
+#seaborn==0.13.2        for jupyter
+#wordcloud==1.9.4       notebook
